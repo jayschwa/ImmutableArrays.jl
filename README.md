@@ -2,7 +2,7 @@
 
 Statically-sized immutable vectors and matrices.
 
-[![Build Status](https://travis-ci.org/jayschwa/ImmutableArrays.jl.png?branch=travis-ci)](https://travis-ci.org/jayschwa/ImmutableArrays.jl)
+[![Build Status](https://travis-ci.org/twadleigh/ImmutableArrays.jl.png?branch=master)](https://travis-ci.org/twadleigh/ImmutableArrays.jl)
 
 ## Features
 

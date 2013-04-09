@@ -5,6 +5,5 @@ before_install:
     - sudo apt-get update
 install: sudo apt-get install julia
 script:
-    - cd src
-    - julia ../test/core.jl
+    - cd src && julia ../test/core.jl
 
